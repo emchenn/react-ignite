@@ -1,7 +1,7 @@
 //require("dotenv").config();
 // Base URL
 const base_url = `https://api.rawg.io/api/games`;
-const api = `?key=${process.env.REACT_APP_RAWG_API}`;
+const api = `?key=${env.REACT_APP_RAWG_API}`;
 // getting the date
 const getCurrentMonth = () => {
   const month = new Date().getMonth() + 1;
