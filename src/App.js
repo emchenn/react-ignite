@@ -12,8 +12,11 @@ function App() {
         <GlobalStyles />
         <Nav />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/game/:id" element={<Home />} />
+          <Route path={"/" || "/react-ignite"} element={<Home />} />
+          <Route
+            path={"/game/:id" || "/react-ignite/game/:id"}
+            element={<Home />}
+          />
         </Routes>
       </div>
     </React.StrictMode>

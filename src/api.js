@@ -1,4 +1,3 @@
-//require("dotenv").config();
 // Base URL
 const base_url = `https://api.rawg.io/api/games`;
 const api = `?key=${process.env.REACT_APP_RAWG_API}`;
