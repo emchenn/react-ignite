@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/react-ignite/static/js/main.e69c573b.js",
+    "main.js": "/react-ignite/static/js/main.531b8c52.js",
     "static/js/787.4b7997b5.chunk.js": "/react-ignite/static/js/787.4b7997b5.chunk.js",
     "static/media/forest.png": "/react-ignite/static/media/forest.065901db756c3a9d67cf.png",
     "static/media/steam.svg": "/react-ignite/static/media/steam.d7b8819f879421dc2f25a3474964687d.svg",
@@ -11,10 +11,10 @@
     "index.html": "/react-ignite/index.html",
     "static/media/apple.svg": "/react-ignite/static/media/apple.5757c37e1a2b3d89e03deb9212a997e8.svg",
     "static/media/logo.svg": "/react-ignite/static/media/logo.9b6b8655566296b0edaa86ec3dbac3a0.svg",
-    "main.e69c573b.js.map": "/react-ignite/static/js/main.e69c573b.js.map",
+    "main.531b8c52.js.map": "/react-ignite/static/js/main.531b8c52.js.map",
     "787.4b7997b5.chunk.js.map": "/react-ignite/static/js/787.4b7997b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e69c573b.js"
+    "static/js/main.531b8c52.js"
   ]
 }
